@@ -1,5 +1,5 @@
 module.exports = {
-  mongoURI: "mongodb://localhost/pill_tracker",
+  mongoURI: "mongodb://localhost/devconnector",
   secretOrKey: "secret"
 };
 

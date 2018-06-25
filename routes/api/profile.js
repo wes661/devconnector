@@ -161,7 +161,7 @@ router.post(
   }
 );
 
-//@route  PPOST api/profile/experience
+//@route  POST api/profile/experience
 //@desc   Post experience to profile
 //@access Private
 
